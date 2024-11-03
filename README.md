@@ -15,4 +15,4 @@
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/BatteryEQOptimizer.git
+   git clone https://github.com/nativesci/BatteryEQOptimizer.git
